@@ -1,0 +1,3 @@
+/Users/r643107@regence.com/Desktop/CST352Assign2/CST352Assign2_Robey/build/CMakeFiles/memory_pool_demo.dir
+/Users/r643107@regence.com/Desktop/CST352Assign2/CST352Assign2_Robey/build/CMakeFiles/edit_cache.dir
+/Users/r643107@regence.com/Desktop/CST352Assign2/CST352Assign2_Robey/build/CMakeFiles/rebuild_cache.dir
